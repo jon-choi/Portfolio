@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Heebo:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 /* font-family: 'Courier Prime', monospace;
 font-family: 'Heebo', sans-serif; */
 :root {
@@ -8,7 +8,7 @@ font-family: 'Heebo', sans-serif; */
   --secondaryColor: #F9B000;
   --baseColor: #21243D;
   --baseFont: 'Heebo', sans-serif;
-  --titleFont: 'Courier Prime', monospace;
+  --titleFont: 'Varela Round', monospace;
   --regular: 400;
   --medium: 500;
   --bold: 700;
